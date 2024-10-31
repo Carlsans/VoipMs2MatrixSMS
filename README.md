@@ -26,7 +26,7 @@ Note, this program is designed not to be called twice at the same time. If you w
  The file containing all the configuration must be filled completely. It is in /Matrix/serveridcredsempty.json and you MUST rename it serveridcreds.json
 
  There is no other config than this file.
-
+NOTE : Better clone the project or read the file in a text editor.
 Here is a description of what everything do :
 
 {
