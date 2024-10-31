@@ -1,0 +1,6 @@
+/.old
+*.txt
+*.tok
+*.html
+serveridcreds.json
+test.php

@@ -1,0 +1,15 @@
+{
+    "servername":"myserver.com",
+    "usertoken":"syt_XXXXXXXXXXXXXXXXXXXXXXX",
+    "serverusername":"@username:myserver.com",
+    "secretnamegenerator" : "Any secret string of you choosing here",
+    "dbservername" : "localhost",
+    "dbusername" : "yourDBUsername",
+    "dbpassword" : "yourusernamedatabasepassword",
+    "dbname" : "databasenamethatyoucreatedandauthorized",
+    "teammembers" : "@carl:matrix.com,@charly:matrix.com,@peter:matrix.com",
+    "api_username" : "myvoipusername@gmail.com", 
+    "api_password" : "myvoipapipassword",
+    "did" : "2345678900",
+    "usefakenames" : false 
+}

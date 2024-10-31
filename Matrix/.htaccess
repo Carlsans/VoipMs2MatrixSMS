@@ -1,0 +1,23 @@
+# Deny access to everything by default
+Order Deny,Allow
+deny from all
+<Files "catchsms.php">
+    Allow from all
+</Files>
+<Files "test.php">
+    Allow from all
+</Files>
+<Files "FrenchNameGenerator.php">
+    Allow from all
+</Files>
+# Deny access to sub directory
+<Files subdirectory/*>
+    deny from all
+</Files>
+
+<Files *.css>
+    allow from all
+</Files>
+<Files *.js>
+    allow from all
+</Files>
